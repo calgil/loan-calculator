@@ -10,7 +10,7 @@ You will build a piece of our savings feature by creating the savings plan simul
 
 ### The Saving Goal Plan Simulation Screen
 
-![Saving Goal Plan Mockup Desktop](https://github.com/devslopes/frontend-take-home-assignment/blob/master/mockups/saving-goal-plan-desk.png)
+![Saving Goal Plan Mockup Desktop](https://github.com/devslopes/loan-take-home-assignment-react/blob/master/mockups/saving-goal-plan-desk.png)
 
 You will build a screen where the user will simulate saving towards the "Buy a house" savings goal.
 In it, the users choose (i) the value they want to save and (ii) the date they plan to reach the goal.
